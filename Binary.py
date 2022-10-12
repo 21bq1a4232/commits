@@ -1,4 +1,4 @@
-def Binary(lst,key):
+def Binary(lst,key):// this is a function
     l=0
     h=len(lst)-1
     while l<=h:
